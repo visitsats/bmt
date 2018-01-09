@@ -1,0 +1,239 @@
+body{
+	font-family: "Open Sans",sans-serif;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;}
+.brd_all{
+	border:solid 1px #dbdbdb;}
+.container{
+	width:1000px !important;}
+.navigation{
+	float: left;
+	clear: both;
+	width: 100%;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	}
+.logo{
+	text-align: center;
+	float: left;
+	width: 227px;
+	height: auto;
+	line-height: 100px;
+	margin: 10px 0px 0px 0px;
+	/* [disabled]border: solid 1px #333333; */
+}
+.nav_link{
+	float: right;
+	color: #007cfb;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 0px;
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+.nav_link a{
+	color:#007cfb;
+	text-decoration:none;}
+.nav_link a:hover{
+	color:#007cfb;
+	text-decoration: underline;}
+.login_con{
+	float:left;
+	padding: 0px;
+	width: 100%;
+	margin: 50px 0px 0px 0px;
+	border: solid 1px #dbdbdb;
+}
+.login_title {
+    background-color: #00aafb;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    height: auto;
+    line-height: normal;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 100%;
+}
+.login_title2 {
+    background-color: #00aafb;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    height: auto;
+    line-height: normal;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 100%;
+}
+.form-group {
+	clear:both;
+	width:100%;
+	font-size:14px;
+	text-shadow:none;
+	font-weight: 400;
+	font-family: "Open Sans",sans-serif;
+    margin-bottom: 20px;
+    text-shadow: none;
+}
+.btn{
+	/*text-transform:uppercase;*/}
+.form_con{
+	float: left;
+	height: auto;
+	width: 100%;
+	padding: 20px;
+	margin: 0px 0px 0px 0px;
+}
+.link{
+	float: left;
+	color: #007cfb;
+	font-size: 14px;
+	font-weight: 400;
+	padding: 0px;
+	text-align: right;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+.link a{
+	color:#007cfb;
+	text-decoration:none;}
+.link a:hover{
+	color:#007cfb;
+	text-decoration: underline;}
+.row_clear{
+	float:left;
+	width:100%;
+	margin:0px 0px 10px 0px;
+	clear:both !important;}
+.sm_container1{
+	float:left;
+	width: 100%;
+	padding: 0px;
+	margin:0px 0px 0px 0px;
+	background-color: #FFFFFF;
+	clear: both;
+}
+.sm_container{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 80px;
+	margin-top: 70px;
+	background-color: #FFFFFF;
+	border: solid 1px #dbdbdb;
+	clear: both;
+}
+.login_title1{
+	color:#00427e;
+	font-size:24px;
+	font-weight:300;
+	text-align:center;
+	padding:0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	float: left;
+	width: 100%;
+}
+.sm_container p{
+	color:#000000;
+	font-weight:300;
+	font-size:16px;
+	text-align:center;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;}
+.large_btn{
+	text-align:center;
+	width:100%;
+	padding:0px 0px 0px 0px;
+	margin:30px 0px 0px 0px;}
+.clear{
+	clear:both;
+	padding:0px 0px 0px 0px;
+	margin:0px 0ppx 0px 0px;}
+.dashboard_con{
+	float: left;
+	width: 100%;
+	padding: 0px 0px 0px 0px;
+	margin: 20px 0px 0px 0px;
+	/* [disabled]border:solid 1px #CC3333; */
+}
+.teaser{
+	float:left;
+	height:auto;
+	width:100%;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 20px 0px;
+	border:solid 1px #dbdbdb;}
+.teaser_con{
+	float:left;
+	height:auto;
+	width:100%;
+	padding:20px;
+	margin:0px 0px 0px 0px;}
+.text{
+	text-align: center;
+	color: #006;
+	font-weight: 600;
+	font-size: 60px;
+	line-height: 200px;
+	height: 200px;
+}
+.text a{
+	color:#006;
+	text-decoration:none;
+	}
+.text a:hover{
+	color:#006;
+	text-decoration:underline;}
+.tab-content{
+	padding:20px;
+	border-right:solid 1px #dbdbdb;
+	border-left:solid 1px #dbdbdb;
+	border-bottom:solid 1px #dbdbdb;}
+.nav-tabs > li > a {
+	border-top:solid 1px #dbdbdb;
+    border-left: 1px solid #dbdbdb;
+	border-right: 1px solid #dbdbdb;}
+.select_row{
+	float:left;
+	clear:both;
+	width:100%;}
+.table_row{
+	float:left;
+	clear:both;
+	width:100%;
+	margin:20px 0px 0px 0px;}
+.select_drop{
+	float:right;
+	width:200px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;}
+.select_drop1{
+	float:left;
+	width:200px;
+	padding:0px 0px 0px 0px;
+	margin:0px 20px 0px 0px;}
+.mrn{
+	float:left;
+	padding:0px 0px 0px 0px !important;
+	margin:0px 20px 0px 0px !important;}
+.mrn_right{
+	margin-right:30px;}
+ a{
+	color:#007cfb !important;}
+a:hover{
+	color:#007cfb !important;}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border-bottom: 1px solid #ddd;}

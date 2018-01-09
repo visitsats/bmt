@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^.*$ https://www.%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule .* beta/index.php/$0 [PT,L]  

@@ -1,0 +1,143 @@
+
+@media screen and (max-width:1366px) {
+	
+	.banner{height:550px;}
+.banner .banner-cnt h5{ font-size:1.5em; letter-spacing:10px;}
+.banner .banner-cnt h2{ font-size:3.2em;}
+
+.banner .btn{ width:250px; padding:14px 20px; font-size:1.2em; margin-top:40px;}
+
+.howitworks{ background-size:100% auto; background-position:center 160px; }
+}
+
+@media screen and (max-width:1199px) {
+
+.banner{height:500px;}
+.topPanel #logo{ margin-top:5px;}
+
+}
+
+@media(max-width:992px) {
+	
+
+.h1, h1 {
+    font-size: 2.2em;
+}
+
+.h2, h2 {
+    font-size: 2em;
+}
+
+.h3, h3 {
+    font-size:1.8em;
+}
+
+.h4, h4 {
+    font-size: 1.1em;
+}
+
+.h5, h5 {
+    font-size: 1em;
+}
+
+.h6, h6 {
+    font-size: 0.2em;
+}	
+	
+
+.main-nav nav ul li a { font-size:0.9em}
+	
+.btn{  padding:8px 10px; border-radius:20px; -moz-border-radius:20px; -webkit-border-radius:20px; font-size:12px }
+	.icon-btn{  position:relative; padding-left:35px; padding-right:10px;}
+.icon-btn .fa{ font-size:25px; position:absolute; left:5px; top:5px;}
+
+.topPanel{ width:100%; height:auto; float:left; padding:5px 0 10px 0;}	
+.main-nav nav { padding:10px 10px;}
+.main-nav .btns{ margin-top:8px;}
+#logo { margin-top:10px; padding-right:0px; }
+#logo img{ width:100%;margin-top:10px;  }
+	
+.topPanel nav {padding:20px 5px;}
+.topPanel nav ul li a {  padding:8px 8px; text-transform:uppercase; border-radius:20px; -moz-border-radius:20px; -webkit-border-radius:20px;}
+
+.floor-layout table tr td{ width:100px; height:67px;}
+.floor-layout table tr td .tb{ width:100px; height:90px; background-size:100%; font-size:12px;line-height:90px;}
+.floor-layout table tr td .hover{ padding-top:15px;}
+
+
+.banner img{ display:none;}
+.banner{ width:100%; height:400px; float:left; background:url(../images/banner.jpg) no-repeat center;}
+.banner .banner-cnt{top:30%;}
+
+.banner .banner-cnt h5{ font-size:1.3em; letter-spacing:10px;}
+.banner .banner-cnt h2{ font-size:3em;}
+
+
+
+.banner .btn{ width:250px; padding:14px 20px; font-size:1em; margin-top:30px;}
+
+#howitworks{ margin-top:0px;}
+.howitworks{ background-size:110% auto; background-position:center 180px; }
+.floor-layout table tr td .btn-xs{padding:5px !important; font-size:8px; line-height:8px; border-radius: 5px}
+
+}
+@media(max-width:768px) {
+	#logo > a{ float:left;}
+#logo > a img { width:120px; }
+}
+
+@media(max-width:767px) {
+.text-right-xs { text-align:right !important}
+.col-xs-full{ width:100%;}
+	
+#logo { margin-top:0; padding-right:10px; }
+#logo img{ width:auto; margin-top:0px ; }
+
+
+.inner-nav { margin:0px;}
+
+.inner-nav  ul li{ width:50%; height:auto; float:left; }
+.inner-nav  ul li a{width:100%; height:65px; float:left; padding:5px 10px; border:rgba(63,148,76,0.5) solid 1px; font-size:14px; }
+.inner-nav  ul li a img{ margin-bottom:10px; width:30px;}
+
+
+
+
+.banner .banner-cnt{ top:30%;}
+.banner img{ display:none;}
+.banner{ width:100%; height:400px; float:left; background:url(../images/banner.jpg) no-repeat center;}
+
+.banner .banner-cnt h5{ font-size:1em; letter-spacing:10px;}
+.banner .banner-cnt h2{ font-size:2.8em;}
+
+.banner .btn{ width:230px; padding:10px 10px; font-size:1em; margin-top:10px;}
+
+.howitworks{background:none;}
+
+.connect-with-us{ background-image:none }
+.tab-section .col-sm-6 + .col-sm-6{ margin-top:20px;}
+
+.testmonial-cnt{ text-align:center;}
+.testmonial-cnt .pick{ float:none !important; display:inline-block; margin:0px;}
+.testmonial-cnt .tm-cnt{ width:100%; height:auto; float:left; margin:0px;}
+
+.floor-layout table tr td{ width:80px; height:60px;}
+.floor-layout table tr td .tb{ width:80px; height:80px;line-height:80px; background-size:100%; font-size:10px}
+
+.floor-layout table tr td .hover{ padding-top:15px;}
+
+.floor-layout table tr td .btn-xs{padding:5px; font-size:8px; line-height:8px; border-radius: 5px}
+
+}
+
+@media(max-width:480px) {
+.banner .banner-cnt{ top:18%;}
+.banner .banner-cnt h5{ font-size:1em; letter-spacing:10px;}
+.banner .banner-cnt h2{ font-size:2.5em;}
+.welcome-panel .info_stick { line-height : 22px !important;}
+}
+.reports{ width:100%; height:auto; float:left}
+.reports-box{ width:100%; height:auto; float:left; background:#fff; margin:15px 0px; border-radius:10px;-webkit-box-shadow: 0px 0px 5px 3px rgba(239,239,239,1);
+-moz-box-shadow: 0px 0px 5px 3px rgba(239,239,239,1);
+box-shadow: 0px 0px 5px 3px rgba(239,239,239,1); text-align:center; padding:0px 0px 15px 0px }
+.reports-in{ width:100px; height:100px; float:left; background:#f1592a; border-radius:50%;margin: 20px 30%; text-align:center; line-height:100px}
